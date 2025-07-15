@@ -26,6 +26,7 @@ Recursos:
 
 Objetivo: Aprender React para construir interfaces dinámicas.
 Temas clave:
+        "Una biblioteca de Javascript para construir interfaces de usuario"
 
 ✔ Componentes y props.
 ✔ Hooks (useState, useEffect, useContext).
