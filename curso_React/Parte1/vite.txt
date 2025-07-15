@@ -1,0 +1,9 @@
+Primero npm create vite@latest en mi proyecto
+npm init -y
+
+instalamso react con JavaScript  y swc
+
+y despues hacemos 
+cd carpet
+npm install
+npm run dev
