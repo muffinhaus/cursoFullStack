@@ -12,3 +12,5 @@ const elemento =  <strong>numero aleatorio. {Math,random()</strong>}
 const nombre = <p> Aqui podemo onder variables {nombre}</p>
 
 {cosas que devuelve un valor, no se pueden poner if, for, etc}
+
+//
