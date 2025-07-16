@@ -1,0 +1,17 @@
+button:hover{
+    opacity: 60px;
+    background-color:aquamarine;
+    color: black;
+    border-style:hidden;
+    
+    }
+
+.btn-outline-primary{
+    background-color: rgb(42, 165, 63);
+}
+
+.btn-primary{
+    background-color: rgb(131, 6, 6);
+    border-color: black;
+    
+}

@@ -1,0 +1,19 @@
+/*CODIGO DECLARATIVO CON REACT*/
+
+
+import React from "https://esm.sh/react@18.2.0";
+import ReactDOM from "https://esm.sh/react-dom@18.2.0/client";
+
+const appDomElement = document.getElementById('app')
+const root = ReactDOM.createRoot(appDomElement)
+
+const boton =  React.createElement('button',null,'Boton React1')
+const boton1 =  React.createElement('button',null,'Boton React2')
+const boton2 =  React.createElement('button',null,'Boton React3')
+
+root.render(boton)
+
+//PARA REUTILIZAR ESE BOTON loS ENVOLVEMOS
+
+const app = React.createElement(React.Fragment, null, [boton,boton1,boton2])
+root.render(app)
